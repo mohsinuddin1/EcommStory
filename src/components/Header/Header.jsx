@@ -1,4 +1,4 @@
-// components/Header.js
+
 import React from "react";
 
 const Header = ({ cartCount, onCartClick, onProfileClick }) => {

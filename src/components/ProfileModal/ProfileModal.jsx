@@ -1,4 +1,3 @@
-// components/ProfileModal.js
 import React, { useState } from "react";
 
 const ProfileModal = ({ user, onClose, onSave }) => {

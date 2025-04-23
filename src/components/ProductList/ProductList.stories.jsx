@@ -1,4 +1,3 @@
-// ProductList.stories.jsx
 import React from "react";
 import ProductList from "./ProductList";
 
