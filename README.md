@@ -1,5 +1,3 @@
-Here's a more concise version of the `README.md` with only the essential details for GitHub:
-
 ```md
 # Vite React Storybook + Chromatic
 
